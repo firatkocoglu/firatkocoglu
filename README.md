@@ -15,4 +15,4 @@ I’m building a developer-first platform that ingests logs & metrics, detects a
 
 A complete e-commerce application with product, cart, order, and payment management, including an admin panel for category, inventory, and image management.
 #### Tech: Laravel 12, PHP 8.4, PostgreSQL, Redis, Horizon, React, TailwindCSS, Stripe.
-### #Focus: Designed with clean architecture, transaction safety, async queues, and caching for real-world reliability and scalability.
+#### Focus: Designed with clean architecture, transaction safety, async queues, and caching for real-world reliability and scalability.
