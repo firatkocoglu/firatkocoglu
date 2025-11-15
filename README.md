@@ -8,7 +8,7 @@ Currently focused on backend development with Laravel and JavaScript (TypeScript
 ### IncidentIQ — AI-powered Incident & SLO Platform
 
 I’m building a developer-first platform that ingests logs & metrics, detects anomalies, tracks SLO / error budgets, and routes alerts & on-call. On top, a RAG-based AI assistant suggests root causes using past incidents and runbooks.
-#### Tech: PostgreSQL (+TimescaleDB/pgvector), RabbitMQ, Redis, Hangfire, OpenTelemetry, Serilog, OpenAI.
+#### Tech:
 #### Focus: clean architecture, event-driven design, reliability, and explainable AI for faster MTTR.
 
 ### 🛒 Laravel E-Commerce
