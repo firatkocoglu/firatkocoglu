@@ -23,16 +23,16 @@ This repository includes a standalone microservice responsible for generating re
 It is implemented in TypeScript with Fastify, built as a production-grade ingestion pipeline.
 
 🔌 Responsibilities
-	•	Fetch category-relevant images from Unsplash
-	•	Download & process raw image buffers
-	•	Upload images to Cloudinary using streaming
-	•	Register uploaded image URLs in the Laravel backend
-	•	Auto-retry with exponential backoff for network/API failures
-	•	Track failed products and support targeted reruns
+	•	Fetch category-relevant images from Unsplash  
+	•	Download & process raw image buffers  
+	•	Upload images to Cloudinary using streaming  
+	•	Register uploaded image URLs in the Laravel backend  
+	•	Auto-retry with exponential backoff for network/API failures  
+	•	Track failed products and support targeted reruns  
 
 ⚙ Technology Stack
-	•	Node.js (Fastify, TypeScript)
-	•	Cloudinary SDK + Streaming uploads
-	•	Axios + Retry wrapper
-	•	Pino structured logging
-	•	Laravel API integration (internal token)
+	•	Node.js (Fastify, TypeScript)  
+	•	Cloudinary SDK + Streaming uploads  
+	•	Axios + Retry wrapper  
+	•	Pino structured logging  
+	•	Laravel API integration (internal token)  
