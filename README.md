@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Fırat Koçoğlu
+ı## 👋 Hi, I’m Fırat Koçoğlu
 
 I’m a software developer who enjoys building clean, functional, and real-world applications.
 Currently focused on backend development with Laravel and JavaScript (TypeScript, Node.js | Next.js), while exploring modern web technologies and best practices.
@@ -8,6 +8,12 @@ Currently focused on backend development with Laravel and JavaScript (TypeScript
 ### IncidentIQ — AI-powered Incident & SLO Platform
 
 I’m building a developer-first platform that ingests logs & metrics, detects anomalies, tracks SLO / error budgets, and routes alerts & on-call. On top, a RAG-based AI assistant suggests root causes using past incidents and runbooks.
+
+Modern applications generate huge volumes of logs, metrics, traces, and alerts — but these signals are scattered across different tools. Developers end up switching between dashboards, guessing root causes, and wasting hours trying to understand incidents.
+
+IncidentIQ solves this by unifying ingestion, anomaly detection, SLO tracking, and AI-powered root-cause analysis in a single platform.
+Instead of jumping between tools or manually correlating data, developers get one place that explains what broke, why it broke, and how to fix it — fast.
+
 #### Tech:
 #### Focus: clean architecture, event-driven design, reliability, and explainable AI for faster MTTR.
 
@@ -21,6 +27,9 @@ A complete e-commerce application with product, cart, order, and payment managem
 
 This repository includes a standalone microservice responsible for generating realistic product images using Unsplash and uploading them to Cloudinary.
 It is implemented in TypeScript with Fastify, built as a production-grade ingestion pipeline.
+
+Manually searching and downloading 4–5 product images for 400+ items is extremely time-consuming and inconsistent. To avoid doing this work by hand, I built an automated Image Ingestion Service that fetches high-quality product images from external sources, limits pagination, normalizes the output, and returns a clean, ready-to-use image set for each product.
+It removes all the manual effort and guarantees consistent, fast, automated image retrieval during onboarding.
 
 🔌 Responsibilities
 	•	Fetch category-relevant images from Unsplash  
