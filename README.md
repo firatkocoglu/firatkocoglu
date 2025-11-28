@@ -1,7 +1,7 @@
-ı## 👋 Hi, I’m Fırat Koçoğlu
+## 👋 Hi, I’m Fırat Koçoğlu
 
 I’m a software developer who enjoys building clean, functional, and real-world applications.
-Currently focused on backend development with Laravel and JavaScript (TypeScript, Node.js | Next.js), while exploring modern web technologies and best practices.
+Currently focused on backend development with JavaScript (Node.js --Nest.js, Fastify, TypeScript-- | Next.js) and Laravel, while exploring modern web technologies and best practices.
 
 # 🚀 Projects
 
